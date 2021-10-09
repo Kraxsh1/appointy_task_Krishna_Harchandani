@@ -19,4 +19,10 @@ Get a post using id
 List all posts of a user
 Passwords should be securely stored such they can't be reverse engineered (Demonstration)
 Create an User:
-![](/images/1_vscode.png)
+![](/Images/img1.PNG)
+![](/Images/img2.PNG)
+![](/Images/img3.PNG)
+![](/Images/img4.PNG)
+![](/Images/img5.PNG)
+![](/Images/img6.PNG)
+![](/Images/img7.PNG)
